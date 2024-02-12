@@ -1,4 +1,6 @@
-The aim of this project is to create a user-friendly system that allows users to find various tourist
+DIGISTANBUL MOBILE APP
+
+- The aim of this project is to create a user-friendly system that allows users to find various tourist
 attractions in İstanbul. In this context, the application is going to store popular cafes, restaurants, and
 must-visit attractions of İstanbul. In addition, based on the user input, the most relevant interests in these
 three categories will be listed. Moreover, users can post comments under the attractions and rate them by
